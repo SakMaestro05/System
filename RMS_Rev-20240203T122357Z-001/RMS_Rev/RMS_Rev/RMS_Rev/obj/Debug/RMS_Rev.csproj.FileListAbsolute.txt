@@ -1,0 +1,152 @@
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe.config
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.pdb
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Properties.Resources.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.exe
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.pdb
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Splash.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Authentication.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Login.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Main.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Forgot.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_ResetPass.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Forgot.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Main.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Transaction.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Payment.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Records.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Confirm.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Signup.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Create_Transaction.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Add_Transaction.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Dashboard.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Add_Transaction.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.frm_Login.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Create.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.ApprovedUsersForm.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Bin.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe.config
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.pdb
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Add_Transaction.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Create.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Forgot.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_ResetPass.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.ApprovedUsersForm.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Bin.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.frm_Login.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Main.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Authentication.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Confirm.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Dashboard.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Add_Transaction.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Create_Transaction.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Forgot.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Login.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Main.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Payment.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Records.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Signup.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Splash.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Transaction.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.exe
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.pdb
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe.config
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.pdb
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.AssemblyReference.cache
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.SuggestedBindingRedirects.cache
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Create.resources
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Forgot.resources
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_ResetPass.resources
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Bin.resources
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.frm_Login.resources
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Main.resources
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Dashboard.resources
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Main.resources
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Payment.resources
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Records.resources
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Splash.resources
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Properties.Resources.resources
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Transaction.resources
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.GenerateResource.cache
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.CoreCompileInputs.cache
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.exe
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.pdb
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe.config
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.pdb
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.AssemblyReference.cache
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.SuggestedBindingRedirects.cache
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Add_Transaction.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Create.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Forgot.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_ResetPass.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Bin.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.frm_Login.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Main.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Confirm.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Dashboard.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Forgot.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Main.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Payment.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Records.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Splash.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Properties.Resources.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Transaction.resources
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.GenerateResource.cache
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.CoreCompileInputs.cache
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.exe
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.pdb
+C:\Users\kanan\Documents\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Dashboard.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe.config
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.pdb
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Create.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Dashboard.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Forgot.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_ResetPass.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Bin.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.frm_Login.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Main.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Dashboard.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Main.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Payment.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Records.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Splash.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Properties.Resources.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Transaction.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.exe
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.pdb
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Dashboard.resources
+C:\Users\kanan\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Add_Transaction.resources
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\bin\Debug\zxing.dll
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\bin\Debug\zxing.presentation.dll
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\bin\Debug\zxing.xml
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\bin\Debug\zxing.presentation.xml
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe.manifest
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.application
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.exe.manifest
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.application
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Desktop\RMS_Rev\RMS_Rev\bin\Debug\itextsharp.xml

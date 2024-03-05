@@ -1,0 +1,38 @@
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe.config
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.pdb
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Properties.Resources.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.exe
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.pdb
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Splash.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Authentication.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Login.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Login.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Main.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Forgot.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_ResetPass.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Forgot.resources
+C:\Users\Administrator\source\repos\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Main.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe.config
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.exe
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\bin\Debug\RMS_Rev.pdb
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Forgot.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Login.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_Main.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Admin_ResetPass.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Authentication.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Forgot.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Login.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Employee_Main.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Splash.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.exe
+C:\Users\Administrator\Desktop\C# System\RMS_Rev\RMS_Rev\obj\Debug\RMS_Rev.pdb
